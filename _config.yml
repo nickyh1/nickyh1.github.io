@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # 站点信息
-title: My Blog                     # 博客标题
-subtitle: 记录学习与生活            # 副标题
+title: Say My Name                  # 博客标题
+subtitle: 不断进步            # 副标题
 description: 一个技术博客           # 站点描述（SEO 用）
 keywords: 技术, 编程, 博客          # 关键词
-author: YourName                   # 作者名
-language: zh-CN                    # 语言设置为中文
-timezone: Asia/Shanghai            # 时区
+author: NickSevatar                 # 作者名
+language: zh-CN                     # 语言设置为中文
+timezone: Asia/Shanghai             # 时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
